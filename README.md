@@ -1,6 +1,7 @@
 # Visão Computacional
 
-- Detecção Facial
+- Detecção Facial  (Cascade, Dlib)
+- Reconhecimento Facial (Cascades, Dlib)
 - Rastreamento Facial
 - Rastreamento de Objetos em vídeos
 - Redes Neurais Artificiais para classificação de imagens
